@@ -2,11 +2,7 @@
 <!-- Una barra de nevagacion estilizada -->
 ## **Kharold Canova**
 
-<br>
-
 #### (Desarrollador Frontend Junior).
-
-<br>
 
 <!-- Descripcion del perfil empresarial -->
 
@@ -18,10 +14,10 @@ Poseo tambien conocimientos basicos en el desarrollo web con HTML, CSS y JavaScr
 
 <br>
 
-#### **Conocimientos en:**
+#### **Tengo conocimientos en:**
 
 <br>
-
+<div>
 <img src="https://img.icons8.com/fluency/512/javascript.png" width="42px" />
 <img src="https://img.icons8.com/color/512/dart.png" width="42px" />
 <img src="https://img.icons8.com/color/512/python.png" width="42px" />
@@ -34,14 +30,14 @@ Poseo tambien conocimientos basicos en el desarrollo web con HTML, CSS y JavaScr
 <img src="https://img.icons8.com/color/512/notion.png" width="42px" />
 <img src="https://img.icons8.com/color/512/firebase.png" width="42px" />
 <img src="https://img.icons8.com/color/512/figma--v1.png" width="42px" />
+</div>
 
 <!-- Contacto -->
 
 <br>
 
-#### Sigueme en mis redes:.
+#### Sigueme en:
 
-<br>
 <button style="background-color:blue"> <a href="https://www.linkedin.com/in/kharoldcanova/" style="color:white"> Linkledin </a> </button>
 <button style="background-color:blue"> <a href="https://www.facebook.com/kharold.canova.7" style="color:white"> Facebook </a> </button>
 
