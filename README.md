@@ -1,46 +1,40 @@
 
-<!-- Una barra de nevagacion estilizada -->
-## **Kharold Canova**
+<!-- Barra de navegación estilizada -->
+# ¡Hola, soy Kharold Canova! 👋
 
-#### (Desarrollador Frontend Junior).
+## Desarrollador Frontend Junior | Apasionado por la Tecnología
 
-<!-- Descripcion del perfil empresarial -->
+### Acerca de mí
 
-Soy una persona dedicada curiosa, autodidacta, con interes en aplicar soluciones elegantes ademas de novedosas que resuelvan un ambito social.
+Soy un apasionado desarrollador frontend con un enfoque en crear soluciones elegantes y funcionales. Mi curiosidad innata me impulsa a explorar nuevas tecnologías y buscar formas innovadoras de abordar desafíos.
 
-<!-- Quiero seguir fortaleciendo mi experiencia en el desarrollo de aplicaciones móviles con Flutter ademas de tomar experiencia en el desarrollo con React para aplicaciones web.
+### Mis Habilidades
 
-Poseo tambien conocimientos basicos en el desarrollo web con HTML, CSS y JavaScript, ademas tengo algo de experiencia realizando pequeños programas en lenguaje de programacion Python. -->
+- Desarrollo de aplicaciones móviles con **Flutter**
+- Creación de experiencias web atractivas con **HTML**, **CSS** y **JavaScript**
+- Programación en **Python** para soluciones versátiles
+- Exploración de proyectos con **React**, creando interfaces interactivas
+- Gestión de proyectos en **Visual Studio Code** y **Android Studio**
+- Colaboración y control de versiones con **Git**
+- Diseño y prototipado en **Figma**
 
-<br>
+### Proyectos Destacados
 
-#### **Tengo conocimientos en:**
+#### [Login con Flutter](https://github.com/kharoldcanova/login_flutter)
+Realizacion de una interfaz atractiva de un diseño que cree en Figma usando servicios de autenticacion de Firebase.
 
-<br>
-<div>
-<img src="https://img.icons8.com/fluency/512/javascript.png" width="42px" />
-<img src="https://img.icons8.com/color/512/dart.png" width="42px" />
-<img src="https://img.icons8.com/color/512/python.png" width="42px" />
-<img src="https://img.icons8.com/color/512/flutter.png" width="42px" />
-<img src="https://img.icons8.com/officel/512/react.png" width="42px" />
-<img src="https://img.icons8.com/color/512/visual-studio-code-2019.png" width="42px" />
-<img src="https://img.icons8.com/color/512/android-studio--v2.png" width="42px" />
-<img src="https://img.icons8.com/fluency/512/anaconda--v2.png" width="42px" />
-<img src="https://img.icons8.com/color/512/git.png" width="42px"/>
-<img src="https://img.icons8.com/color/512/notion.png" width="42px" />
-<img src="https://img.icons8.com/color/512/firebase.png" width="42px" />
-<img src="https://img.icons8.com/color/512/figma--v1.png" width="42px" />
-</div>
+#### [Chatbot](https://github.com/kharoldcanova/yes_no_app)
+Un chatbot que consume un servicio API de respuestas basadas en una imagen de YES o NO.
 
-<!-- Contacto -->
+### Mi Compromiso
 
-<br>
+Siempre en busca de aprendizaje continuo, estoy emocionado por seguir creciendo y aportando al mundo de la tecnología.
 
-#### Sigueme en:
+### ¡Conéctate!
 
-<button style="background-color:blue"> <a href="https://www.linkedin.com/in/kharoldcanova/" style="color:white"> Linkledin </a> </button>
-<button style="background-color:blue"> <a href="https://www.facebook.com/kharold.canova.7" style="color:white"> Facebook </a> </button>
+- [LinkedIn](https://www.linkedin.com/in/kharoldcanova/)
+- [Sitio Web Personal](https://kharoldcanova.github.io/#/)
 
-<br>
+¡No dudes en contactarme para colaboraciones, oportunidades o simplemente para hablar sobre tecnología!
 
-#### Escribeme un correo a kharoldcanova@gmail.com 
+> "El mundo es una caja llena de posibilidades, la unica forma de atraparlas es con esmero y dedicacion" - Kharold Canova
