@@ -1,159 +1,60 @@
 <div align="center">
 
-# 👋 ¡Hola! Soy Kharold Canova
+# Kharold Canova
 
-### 💻 Systems Engineer • Backend Developer • Full Stack Developer
+**`Systems Engineer | Full Stack Developer`**
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=58A6FF&center=true&vCenter=true&width=900&lines=Ingeniero+de+Sistemas;Backend+Developer;Laravel+%7C+FastAPI+%7C+Python;Flutter+Developer;Linux+%2B+Docker+%2B+DevOps;Siempre+aprendiendo+algo+nuevo" />
-
-<p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=800&lines=Fullstack+Developer;Automatizaci%C3%B3n+%26+DevOps;Laravel+%7C+Flutter+%7C+Python;Linux+%2B+Docker" alt="Typing SVG" />
 
 <a href="https://www.linkedin.com/in/kharoldcanova">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=58A6FF" />
 </a>
-
 <a href="https://kharoldcanova.github.io">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefoxbrowser"/>
+  <img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=firefoxbrowser&logoColor=58A6FF" />
 </a>
+<img src="https://komarev.com/ghpvc/?username=kharoldcanova&style=for-the-badge&color=58A6FF&label=VISITANTES" />
 
-<img src="https://komarev.com/ghpvc/?username=kharoldcanova&style=for-the-badge&color=blue"/>
+</div>
+<br>
+Soy Desarrollador Fullstack nativo de Peru, especializado en backend con Laravel. Desarrollo apps multiplataforma con Flutter para iOS, Android y web. Tambien me encanta automatizar tareas repetitivas, por eso actualmente me desarrollo en seguir mejorando mis conocimientos de DevOps.Tambien me apasiona explorar distribuciones de Linux, estar al pendiente de las ultimas tecnologias y usar la inteligencia artificial para potenciar cada proyecto.
 
-</p>
+## Stack
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PHP-0D1117?style=for-the-badge&logo=php&logoColor=BC8CFF" />
+<img src="https://img.shields.io/badge/Laravel-0D1117?style=for-the-badge&logo=laravel&logoColor=F0883E" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=3FB950" />
+<img src="https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=39D2C0" />
+<img src="https://img.shields.io/badge/Dart-0D1117?style=for-the-badge&logo=dart&logoColor=39D2C0" />
+<img src="https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=F97583" />
+<img src="https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=E3B341" />
+<img src="https://img.shields.io/badge/HTML5-0D1117?style=for-the-badge&logo=html5&logoColor=F0883E" />
+<img src="https://img.shields.io/badge/CSS3-0D1117?style=for-the-badge&logo=css3&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/MySQL-0D1117?style=for-the-badge&logo=mysql&logoColor=F0883E" />
+<img src="https://img.shields.io/badge/SQLite-0D1117?style=for-the-badge&logo=sqlite&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=E3B341" />
+<img src="https://img.shields.io/badge/Arch-0D1117?style=for-the-badge&logo=archlinux&logoColor=BC8CFF" />
+<img src="https://img.shields.io/badge/Bash-0D1117?style=for-the-badge&logo=gnubash&logoColor=3FB950" />
+<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F0883E" />
+<img src="https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/VS_Code-0D1117?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=F0883E" />
 
 </div>
 
 ---
 
-# 🚀 Sobre mí
-
-Soy **Ingeniero de Sistemas** y desarrollador de software enfocado en construir soluciones **robustas**, **eficientes** y **escalables**.
-
-Mi principal interés está en el desarrollo **Backend**, la arquitectura de software y la automatización de procesos. Disfruto diseñar sistemas mantenibles, optimizar flujos de trabajo y construir herramientas que resuelvan problemas reales.
-
-También cuento con experiencia en desarrollo móvil multiplataforma con Flutter y desarrollo web.
-
-Me apasionan:
-
-- 🐧 El software libre y Linux.
-- ⚙️ La automatización de procesos.
-- 🧠 Resolver problemas complejos.
-- ♟️ El ajedrez.
-- 💻 Los entornos de desarrollo minimalistas basados en terminal.
-- 🤖 La Inteligencia Artificial aplicada al desarrollo.
-
----
-
-# 🔭 Actualmente
-
-- 🛠️ Desarrollando aplicaciones Backend con **Laravel** y **FastAPI**.
-- 🐳 Trabajando con **Docker** para contenerización y despliegues.
-- ⚡ Automatizando tareas mediante **Python**, **Bash** y **Google Apps Script**.
-- ☁️ Administrando servidores Linux.
-- 🤖 Experimentando con modelos de IA ejecutados localmente.
-- 🌱 Aprendiendo más sobre **Arquitectura de Software**, **DevOps** e **Infraestructura**.
-
----
-
-# 💻 Stack Tecnológico
-
 <div align="center">
 
-### Backend
+### [kharoldcanova.github.io](https://kharoldcanova.github.io)
 
-<img src="https://skillicons.dev/icons?i=php,laravel,python,fastapi,nodejs"/>
+<br>
 
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=flutter,dart,react,js,html,css"/>
-
-### Bases de Datos
-
-<img src="https://skillicons.dev/icons?i=mysql,sqlite"/>
-
-### DevOps
-
-<img src="https://skillicons.dev/icons?i=docker,linux,arch,bash,git,githubactions"/>
-
-### Herramientas
-
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,figma,postman"/>
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=kharoldcanova&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kharoldcanova&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=kharoldcanova&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 📈 Actividad
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=kharoldcanova&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 Logros
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=kharoldcanova&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
-</div>
-
----
-
-# 🚀 Algunos proyectos
-
-| Proyecto | Descripción |
-|----------|-------------|
-| 🔐 Login Flutter | Interfaz moderna con Firebase Authentication. |
-| 🤖 Yes / No Chat | Chat que consume una API para responder con imágenes. |
-| ⚙️ Automatización | Scripts para automatizar procesos, servidores y sincronización de datos. |
-| 📊 Google Apps Script | Automatización de hojas de cálculo, OCR y sincronización de información. |
-
----
-
-# 🧠 Actualmente aprendiendo
-
-```text
-Backend Architecture     ████████████████████
-DevOps                  ██████████████████
-Docker                  ███████████████████
-Artificial Intelligence █████████████████
-Linux                   ██████████████████████
-Automation              █████████████████████
-```
-
----
-
-# ☕ Filosofía
-
-> **"El código limpio no solo resuelve problemas; también facilita el trabajo del próximo desarrollador, incluso si ese desarrollador eres tú mismo."**
-
----
-
-<div align="center">
-
-### Gracias por visitar mi perfil ❤️
-
-<img src="https://raw.githubusercontent.com/kharoldcanova/kharoldcanova/output/github-contribution-grid-snake-dark.svg" />
+> *"La inteligencia artificial es la última herramienta de la imaginación humana. No viene a reemplazar nuestra capacidad de soñar, sino a darnos el lienzo infinito y el pincel automatizado para construir los mundos que antes solo existían en el silencio de nuestra mente."*
+>
+> — Arthur C. Clarke (Atribuida en discusiones sobre el futuro del software y la IA)
 
 </div>
