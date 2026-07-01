@@ -16,7 +16,7 @@
 
 </div>
 <br>
-Soy Desarrollador Fullstack nativo de Peru, especializado en backend con Laravel. Desarrollo apps multiplataforma con Flutter para iOS, Android y web. Tambien me encanta automatizar tareas repetitivas, por eso actualmente me desarrollo en seguir mejorando mis conocimientos de DevOps.Tambien me apasiona explorar distribuciones de Linux, estar al pendiente de las ultimas tecnologias y usar la inteligencia artificial para potenciar cada proyecto.
+Soy Desarrollador Fullstack nativo de Peru, especializado en desarrollo apps multiplataforma con Flutter para iOS, Android y web ademas de trabajar backend con Laravel. Tambien me encanta automatizar tareas repetitivas, por eso actualmente me concentro en seguir mejorando mis conocimientos de DevOps. Tambien me apasiona explorar distribuciones de Linux, estar al pendiente de las ultimas tecnologias y usar la inteligencia artificial para potenciar cada proyecto.
 
 ## Stack
 
